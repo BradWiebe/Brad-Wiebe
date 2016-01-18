@@ -24,7 +24,7 @@ My ignorance of programming languages, operating systems, softwares, file format
    [Ace Editor]: <http://ace.ajax.org>
    [node.js]: <http://nodejs.org>
    
-    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
    [keymaster.js]: <https://github.com/madrobby/keymaster>
    [jQuery]: <http://jquery.com>
    [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
